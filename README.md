@@ -16,6 +16,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
     - [Utils](#utils)
     - [UI Component](#ui-component)
     - [Visualization](#visualization)
+    - [Project](#project)
     - [Guide](#guide)
 
 ---
@@ -35,11 +36,14 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ## Form
 * [angular-form-builder](https://github.com/kelp404/angular-form-builder) - Drag and drop to build bootstrap forms in AngularJS 
 * [angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms for AngularJS
+* [angular-form-for](https://github.com/bvaughn/angular-form-for) - Set of Angular directives to simplify creating and validating HTML forms
 * [angular-typeahead](https://github.com/Siyfion/angular-typeahead) - A very simple Angular.js wrapper around the Twitter Typeahead library
 * [ngTagEditor](https://github.com/varyoo/ngTagEditor) - A new lightweight tag input, built for AngularJS
 
 ## Layout
 * [angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry
+* [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
+
 
 ## Loading
 * [ngActivityIndicator](https://github.com/voronianski/ngActivityIndicator) - Angular provider for preloader animations 
@@ -81,6 +85,10 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [angles](https://github.com/gonewandering/angles) - An angular.js wrapper for Chart.js
 * [angular-nvd3](https://github.com/krispo/angular-nvd3) - An AngularJS directive for NVD3 reusable charting library (based on D3). Easily customize your charts via JSON API
 
+## Project
+* [angular-cms](https://github.com/jonniespratley/angular-cms) - A light weight CMS built with Angular.js and Yeoman
+* [LookAround](https://github.com/shidhincr/LookAround) - AngularJS Learning Playground ( with Twitter bootstrap, Google maps API, TDD using Karma runner )
+
 ## Guide
 * [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
 * [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
@@ -88,6 +96,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS style guide used at GoCardless
 * [angular-education](https://github.com/timjacobi/angular-education) - A collection of useful resources to learn and improve your AngularJS skills.
 * [learning-angular](https://github.com/zafarali/learning-angular) - A repo containing all code used to learn AngularJS, Scroll down to README for the tutorial
+* [angular2-education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2
 * [mean](https://github.com/linnovate/mean) - MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way 
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) - A list of awesome AngularJs services, directives, utilities and resources
 
