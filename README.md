@@ -7,6 +7,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
     - [Animation](#animation)
     - [Form](#form)
     - [Layout](#layout)
+    - [Loading](#loading)
     - [Visualization](#visualization)
 
 ---
@@ -21,6 +22,9 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 
 ## Layout
 * [angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry
+
+## Loading
+* [ngActivityIndicator](https://github.com/voronianski/ngActivityIndicator) - Angular provider for preloader animations 
 
 
 ## Visualization
