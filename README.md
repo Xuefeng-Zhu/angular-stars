@@ -30,3 +30,4 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ## Visualization
 * [angular-google-maps](https://github.com/angular-ui/angular-google-maps) - AngularJS directives for the Google Maps Javascript API
 * [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS
+* [angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts for AngularJS using Chart.js
