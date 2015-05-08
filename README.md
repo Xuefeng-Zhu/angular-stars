@@ -8,6 +8,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
     - [Form](#form)
     - [Layout](#layout)
     - [Loading](#loading)
+    - [Seed](#seed)
     - [Visualization](#visualization)
 
 ---
@@ -25,6 +26,9 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 
 ## Loading
 * [ngActivityIndicator](https://github.com/voronianski/ngActivityIndicator) - Angular provider for preloader animations 
+
+## Seed
+* [rdash-angular](https://github.com/rdash/rdash-angular) - AngularJS implementation of the RDash admin dashboard theme
 
 
 ## Visualization
