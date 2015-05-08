@@ -4,11 +4,15 @@
 my stared python libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Angular Stars](#angular-stars)
+    - [Animation](#animation)
     - [Form](#form)
     - [Layout](#layout)
     - [Visualization](#visualization)
 
 ---
+## Animation
+* [angular-motion](https://github.com/mgcrea/angular-motion) - Fancy CSS3 animations for AngularJS 1.2+
+
 
 ## From
 
