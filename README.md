@@ -10,6 +10,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
     - [Form](#form)
     - [Layout](#layout)
     - [Loading](#loading)
+    - [Navigation](#navigation)
     - [Seed](#seed)
     - [Service](#service)
     - [Utils](#utils)
@@ -20,6 +21,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ---
 ## Animation
 * [angular-motion](https://github.com/mgcrea/angular-motion) - Fancy CSS3 animations for AngularJS 1.2+
+* [ngFx](https://github.com/Hendrixer/ngFx) - Simple, Beautiful animation library for Angular
 
 ## Ease Angular
 * [angular-classy](https://github.com/davej/angular-classy) - Cleaner class-based controllers with Angular
@@ -28,9 +30,10 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
 * [ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
 
-## From
+## Form
 * [angular-form-builder](https://github.com/kelp404/angular-form-builder) - Drag and drop to build bootstrap forms in AngularJS 
 * [angular-typeahead](https://github.com/Siyfion/angular-typeahead) - A very simple Angular.js wrapper around the Twitter Typeahead library
+* [ngTagEditor](https://github.com/varyoo/ngTagEditor) - A new lightweight tag input, built for AngularJS
 
 ## Layout
 * [angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry
@@ -39,6 +42,11 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [ngActivityIndicator](https://github.com/voronianski/ngActivityIndicator) - Angular provider for preloader animations 
 * [angular-intro.js](https://github.com/mendhak/angular-intro.js) - AngularJS directives for intro.js
 * [overmind](https://github.com/geddski/overmind) - Easy module isolation and lazy loading for Angular apps
+
+## Navigation
+* [angular-scroll](https://github.com/oblador/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js
+* [angular-breadcrumb](https://github.com/ncuillery/angular-breadcrumb) - Generate a breadcrumb from ui-router's states
+* [angular-wizard](https://github.com/mgonto/angular-wizard) - Easy to use Wizard library for AngularJS
 
 ## Seed
 * [rdash-angular](https://github.com/rdash/rdash-angular) - AngularJS implementation of the RDash admin dashboard theme
@@ -49,7 +57,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ## Utils
 * [angularUtils](https://github.com/michaelbromley/angularUtils) - A place where I will collect useful re-usable Angular components that I make
 * [AngularAgility](https://github.com/AngularAgility/AngularAgility) - A set of useful Angular.js extensions implementing common UX patterns to improve productivity.
-
+* [angular-filter](https://github.com/a8m/angular-filter) - Bunch of useful filters for AngularJS (with no external dependencies!)
 
 ## UI Component
 * [bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
@@ -58,6 +66,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
 * [ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 * [ng-bs-animated-button](https://github.com/jeremypeters/ng-bs-animated-button) - A very simple Angular.js wrapper around the Twitter Typeahead library.
+* [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements) - Extendible AngularJS two-way binding support for Polymer elements and web components
 
 ## Visualization
 * [angular-google-maps](https://github.com/angular-ui/angular-google-maps) - AngularJS directives for the Google Maps Javascript API
@@ -66,10 +75,11 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [angular-nvd3](https://github.com/krispo/angular-nvd3) - An AngularJS directive for NVD3 reusable charting library (based on D3). Easily customize your charts via JSON API
 
 ## Guide
-* [learning-angular](https://github.com/zafarali/learning-angular) - A repo containing all code used to learn AngularJS, Scroll down to README for the tutorial
 * [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
 * [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
+* [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS style guide used at GoCardless
 * [angular-education](https://github.com/timjacobi/angular-education) - A collection of useful resources to learn and improve your AngularJS skills.
+* [learning-angular](https://github.com/zafarali/learning-angular) - A repo containing all code used to learn AngularJS, Scroll down to README for the tutorial
 * [mean](https://github.com/linnovate/mean) - MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way 
 
