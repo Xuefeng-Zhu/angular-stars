@@ -94,6 +94,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 * [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS style guide used at GoCardless
+* [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - AngularJS in patterns - this repository provides different look into AngularJS. It contains information where different design patterns are used inside the framework or any AngularJS application.
 * [angular-education](https://github.com/timjacobi/angular-education) - A collection of useful resources to learn and improve your AngularJS skills.
 * [learning-angular](https://github.com/zafarali/learning-angular) - A repo containing all code used to learn AngularJS, Scroll down to README for the tutorial
 * [angular2-education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2
