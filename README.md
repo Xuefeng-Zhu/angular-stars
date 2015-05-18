@@ -34,7 +34,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
 
 ## Form
-* [angular-form-builder](https://github.com/kelp404/angular-form-builder) - Drag and drop to build bootstrap forms in AngularJS 
+* [angular-form-builder](https://github.com/kelp404/angular-form-builder) - Drag and drop to build bootstrap forms in AngularJS
 * [angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms for AngularJS
 * [angular-form-for](https://github.com/bvaughn/angular-form-for) - Set of Angular directives to simplify creating and validating HTML forms
 * [angular-typeahead](https://github.com/Siyfion/angular-typeahead) - A very simple Angular.js wrapper around the Twitter Typeahead library
@@ -43,7 +43,6 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ## Layout
 * [angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry
 * [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
-
 
 ## Loading
 * [ngActivityIndicator](https://github.com/voronianski/ngActivityIndicator) - Angular provider for preloader animations 
@@ -77,6 +76,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 * [ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 * [ng-bs-animated-button](https://github.com/jeremypeters/ng-bs-animated-button) - A very simple Angular.js wrapper around the Twitter Typeahead library.
 * [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements) - Extendible AngularJS two-way binding support for Polymer elements and web components
+* [malhar-angular-dashboard](https://github.com/DataTorrent/malhar-angular-dashboard) - Generic Dashboard/Widgets functionality with AngularJS (directive)
 
 ## Visualization
 * [angular-google-maps](https://github.com/angular-ui/angular-google-maps) - AngularJS directives for the Google Maps Javascript API
