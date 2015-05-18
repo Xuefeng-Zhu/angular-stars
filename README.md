@@ -88,6 +88,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ## Project
 * [angular-cms](https://github.com/jonniespratley/angular-cms) - A light weight CMS built with Angular.js and Yeoman
 * [LookAround](https://github.com/shidhincr/LookAround) - AngularJS Learning Playground ( with Twitter bootstrap, Google maps API, TDD using Karma runner )
+* [paperwork](https://github.com/twostairs/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 ## Guide
 * [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
