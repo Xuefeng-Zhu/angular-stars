@@ -42,6 +42,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 
 ## Layout
 * [angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry
+* [angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS. 
 * [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
 
 ## Loading
@@ -61,6 +62,7 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 
 ## Service
 * [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
+* [angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive 
 
 ## Utils
 * [angularUtils](https://github.com/michaelbromley/angularUtils) - A place where I will collect useful re-usable Angular components that I make
