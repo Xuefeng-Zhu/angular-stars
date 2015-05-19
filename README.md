@@ -1,6 +1,6 @@
 # Angular-Stars
 
-my stared angular libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+My stared angular libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Angular Stars](#angular-stars)
     - [Animation](#animation)
