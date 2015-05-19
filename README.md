@@ -72,12 +72,12 @@ my stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 
 ## UI Component
 * [bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
-* [material](https://github.com/angular/material) - Material design for Angular
-* [famous-angular](https://github.com/Famous/famous-angular) - Bring structure to your Famo.us apps with the power of AngularJS. Famo.us/Angular integrates seamlessly with existing Angular and Famo.us apps
 * [angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
+* [material](https://github.com/angular/material) - Material design for Angular
+* [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements) - Extendible AngularJS two-way binding support for Polymer elements and web components
+* [famous-angular](https://github.com/Famous/famous-angular) - Bring structure to your Famo.us apps with the power of AngularJS. Famo.us/Angular integrates seamlessly with existing Angular and Famo.us apps
 * [ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 * [ng-bs-animated-button](https://github.com/jeremypeters/ng-bs-animated-button) - A very simple Angular.js wrapper around the Twitter Typeahead library.
-* [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements) - Extendible AngularJS two-way binding support for Polymer elements and web components
 * [malhar-angular-dashboard](https://github.com/DataTorrent/malhar-angular-dashboard) - Generic Dashboard/Widgets functionality with AngularJS (directive)
 
 ## Visualization
