@@ -62,6 +62,7 @@ My stared angular libraries. Inspired by [awesome-python](https://github.com/vin
 ## Service
 * [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
 * [angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive 
+* [ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app.
 
 ## Utils
 * [angularUtils](https://github.com/michaelbromley/angularUtils) - A place where I will collect useful re-usable Angular components that I make
